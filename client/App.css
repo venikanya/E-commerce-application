@@ -1,0 +1,49 @@
+.App {
+    text-align: center;
+}
+
+#modal {
+    background-color: rgba(0, 0, 0, 0.9);
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#modal:empty {
+    display: none;
+}
+
+#modal > div {
+    background-color: white;
+    padding: 15px;
+    width: 300px;
+}
+
+#modal .buttons button {
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 15px;
+}
+
+#modal form {
+    display: flex;
+    flex-direction: column;
+}
+
+#modal form label {
+    padding: 10px 0px;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
