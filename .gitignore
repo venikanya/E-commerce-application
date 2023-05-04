@@ -1,0 +1,16 @@
+# dependencies
+/client/node_modules
+
+#local DB
+/server/mongo-db-data
+
+
+# production
+/client/build
+
+# misc
+.DS_Store
+/client/.DS_Store
+/server/.DS_Store
+
+npm-debug.log*
