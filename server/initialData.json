@@ -1,0 +1,273 @@
+[
+    {
+    "name": "Matte Interior Paint",
+    "category": "interior paint",
+    "sku": "IP1001"
+    },
+    {
+    "name": "Eggshell Interior Paint",
+    "category": "interior paint",
+    "sku": "IP1002"
+    },
+    {
+    "name": "Satin Interior Paint",
+    "category": "interior paint",
+    "sku": "IP1003"
+    },
+    {
+    "name": "Semi-gloss Interior Paint",
+    "category": "interior paint",
+    "sku": "IP1004"
+    },
+    {
+    "name": "Flat Exterior Paint",
+    "category": "exterior paint",
+    "sku": "EP2001"
+    },
+    {
+    "name": "Satin Exterior Paint",
+    "category": "exterior paint",
+    "sku": "EP2002"
+    },
+    {
+    "name": "Semi-gloss Exterior Paint",
+    "category": "exterior paint",
+    "sku": "EP2003"
+    },
+    {
+    "name": "Gloss Exterior Paint",
+    "category": "exterior paint",
+    "sku": "EP2004"
+    },
+    {
+    "name": "Ceiling Paint",
+    "category": "specialty paint",
+    "sku": "SP3001"
+    },
+    {
+    "name": "Primer",
+    "category": "specialty paint",
+    "sku": "SP3002"
+    },
+    {
+    "name": "Stain Blocker",
+    "category": "specialty paint",
+    "sku": "SP3003"
+    },
+    {
+    "name": "Chalkboard Paint",
+    "category": "specialty paint",
+    "sku": "SP3004"
+    },
+    {
+    "name": "2x4 Lumber",
+    "category": "lumber",
+    "sku": "LMB1001"
+    },
+    {
+    "name": "4x4 Lumber",
+    "category": "lumber",
+    "sku": "LMB1002"
+    },
+    {
+    "name": "2x6 Lumber",
+    "category": "lumber",
+    "sku": "LMB1003"
+    },
+    {
+    "name": "2x8 Lumber",
+    "category": "lumber",
+    "sku": "LMB1004"
+    },
+    {
+    "name": "2x10 Lumber",
+    "category": "lumber",
+    "sku": "LMB1005"
+    },
+    {
+    "name": "2x12 Lumber",
+    "category": "lumber",
+    "sku": "LMB1006"
+    },
+    {
+    "name": "Plywood",
+    "category": "sheet goods",
+    "sku": "SG2001"
+    },
+    {
+    "name": "OSB",
+    "category": "sheet goods",
+    "sku": "SG2002"
+    },
+    {
+    "name": "Drywall",
+    "category": "sheet goods",
+    "sku": "SG2003"
+    },
+    {
+    "name": "Insulation",
+    "category": "insulation",
+    "sku": "INS3001"
+    },
+    {
+    "name": "Roofing Shingles",
+    "category": "roofing",
+    "sku": "RFG4001"
+    },
+    {
+    "name": "Roofing Underlayment",
+    "category": "roofing",
+    "sku": "RFG4002"
+    },
+    {
+    "name": "Roofing Flashing",
+    "category": "roofing",
+    "sku": "RFG4003"
+    },
+    {
+    "name": "Concrete Mix",
+    "category": "concrete",
+    "sku": "CMT5001"
+    },
+    {
+    "name": "Mortar Mix",
+    "category": "concrete",
+    "sku": "CMT5002"
+    },
+    {
+    "name": "Rebar",
+    "category": "reinforcement",
+    "sku": "RFN6001"
+    },
+      {
+        "name": "Wire Mesh",
+        "category": "reinforcement",
+        "sku": "RFN6002"
+      },
+      {
+        "name": "Anchor Bolts",
+        "category": "fasteners",
+        "sku": "FST7001"
+      },
+      {
+        "name": "Drywall Screws",
+        "category": "fasteners",
+        "sku": "FST7002"
+      },
+      {
+        "name": "Nails",
+        "category": "fasteners",
+        "sku": "FST7003"
+      },
+      {
+        "name": "Masonry Nails",
+        "category": "fasteners",
+        "sku": "FST7004"
+      },
+      {
+        "name": "Wood Screws",
+        "category": "fasteners",
+        "sku": "FST7005"
+      },
+      {
+        "name": "Plywood",
+        "category": "lumber",
+        "sku": "PLY1003"
+      },
+      {
+        "name": "Drywall",
+        "category": "building materials",
+        "sku": "BLD2001"
+      },
+      {
+        "name": "Cement",
+        "category": "building materials",
+        "sku": "BLD2002"
+      },
+      {
+        "name": "Masonry Blocks",
+        "category": "building materials",
+        "sku": "BLD2003"
+      },
+      {
+        "name": "Roofing Shingles",
+        "category": "roofing",
+        "sku": "RFG3001"
+      },
+      {
+        "name": "Roofing Underlayment",
+        "category": "roofing",
+        "sku": "RFG3002"
+      },
+      {
+        "name": "Roofing Nails",
+        "category": "roofing",
+        "sku": "RFG3003"
+      },
+      {
+        "name": "Fiberglass",
+        "category": "insulation",
+        "sku": "INS4001"
+      },
+      {
+        "name": "Cellulose ",
+        "category": "insulation",
+        "sku": "INS4002"
+      },
+      {
+        "name": "Spray Foam",
+        "category": "insulation",
+        "sku": "INS4003"
+      },
+      {
+        "name": "Copper Pipes",
+        "category": "plumbing",
+        "sku": "PLM5001"
+      },
+      {
+        "name": "PVC Pipes",
+        "category": "plumbing",
+        "sku": "PLM5002"
+      },
+      {
+        "name": "PEX Pipes",
+        "category": "plumbing",
+        "sku": "PLM5003"
+      },
+      {
+        "name": "Insulation Windows",
+        "category": "windows",
+        "sku": "WND6001"
+      },
+      {
+        "name": "Sliding Windows",
+        "category": "windows",
+        "sku": "WND6002"
+      },
+      {
+        "name": "Casement Windows",
+        "category": "windows",
+        "sku": "WND6003"
+      },
+      {
+        "name": "Steel Doors",
+        "category": "doors",
+        "sku": "DRS7001"
+      },
+      {
+        "name": "Fiberglass Doors",
+        "category": "doors",
+        "sku": "DRS7002"
+      },
+      {
+        "name": "Wooden Doors",
+        "category": "doors",
+        "sku": "DRS7003"
+      },
+      {
+        "name": "Electrical Wiring",
+        "category": "electrical",
+        "sku": "ELC8001"
+      }
+    ]
+  
